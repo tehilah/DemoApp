@@ -11,14 +11,14 @@
         android:id="@+id/tapOnMe"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="tap on me"
+        android:text="tap on me!"
         app:layout_constraintBottom_toTopOf="@+id/button"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         android:layout_marginBottom="60dp"
         android:textSize="30sp"
-        android:textColor="#FFFDE7"
+        android:textColor="#E0F2F1"
         />
 
     <Button
